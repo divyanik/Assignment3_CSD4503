@@ -1,0 +1,19 @@
+{
+  "name": "assignment3_divyani",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "Divyani-c0895317",
+  "license": "ISC",
+  "description": "creating docker images using docker file|assignment3",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "mocha": "^10.4.0"
+  }
+}
